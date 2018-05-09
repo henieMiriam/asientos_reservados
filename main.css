@@ -1,0 +1,12 @@
+.first_class{
+  background: silver;
+}
+.economic_class{
+  background: blue;
+}
+.seats{
+  display: inline-block;
+  width: 10%;
+  height: 20%;
+  border: 1px solid black;
+}
